@@ -1,8 +1,8 @@
 import { css } from '@emotion/css';
 import React from 'react';
-import IconButton from '../../buttons/Icon';
-import HeadLights from '../../icons/HeadLights';
-import TirePressure from '../../icons/TirePressure';
+import IconButton from '../../../buttons/Icon';
+import HeadLights from '../../../icons/HeadLights';
+import TirePressure from '../../../icons/TirePressure';
 
 const TopInfoBar = () => {
   return (
