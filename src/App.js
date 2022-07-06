@@ -1,4 +1,5 @@
-import { jsx, css, Global, ClassNames } from '@emotion/css';
+import { css, } from '@emotion/css';
+import SideBar from './components/sections/SideBar';
 
 function App() {
   return (
@@ -9,8 +10,8 @@ function App() {
         ${'' /* background-color: #ff00ff; */}
         display: flex;
         flex-direction: column;
-        max-width: 1024px;
-        max-height: 768px;
+        max-width: 1385px;
+        max-height: 866px;
       `}
     >
       <div
@@ -28,6 +29,7 @@ function App() {
           `}
         >
           {/* SideBar section */}
+          <SideBar />
         </div>
         <div
           className={css`
@@ -42,7 +44,7 @@ function App() {
       <div
         className={css`
           width: 100%;
-          height: 10%;
+          height: 10.6%;
           background: #000000;
         `}
       ></div>
