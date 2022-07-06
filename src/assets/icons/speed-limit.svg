@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Speed Limit</title>
+    <g id="GUI-Elements" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Driving---Navigation" transform="translate(-511.000000, -227.000000)">
+            <g id="driving" transform="translate(0.000000, 207.000000)">
+                <g id="Speed-Limit" transform="translate(511.000000, 20.000000)">
+                    <polygon id="Background" points="0 0 48 0 48 48 0 48"></polygon>
+                    <g id="Light" transform="translate(6.000000, 0.000000)" fill="#000000">
+                        <path d="M0,2 C0,0.89543 0.89543,0 2,0 C2,0 34,0 34,0 C35.1046,0 36,0.89543 36,2 C36,2 36,46 36,46 C36,47.1046 35.1046,48 34,48 C34,48 2,48 2,48 C0.89543,48 0,47.1046 0,46 C0,46 0,2 0,2 Z" id="Rectangle" fill-opacity="0.2"></path>
+                        <text id="Speed-Limit" font-family=".AppleSystemUIFont" font-size="8" font-weight="normal" line-spacing="7.5">
+                            <tspan x="1.56640625" y="8.84375">SPEED</tspan>
+                            <tspan x="3.88476562" y="16.34375">LIMIT</tspan>
+                        </text>
+                        <text id="80" font-family=".AppleSystemUIFont" font-size="20" font-weight="normal">
+                            <tspan x="5.91137695" y="39">80</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>power</title>
+    <g id="GUI-Elements" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Driving---Navigation" transform="translate(-265.000000, -880.000000)">
+            <g id="action-icons" transform="translate(0.000000, 880.000000)">
+                <g id="power" transform="translate(265.000000, 0.000000)">
+                    <polygon id="Background" points="0 0 48 0 48 48 0 48"></polygon>
+                    <path d="M24.24386,19.6153 L24.24386,5 C18.1332533,19.6667333 15.07795,27.0001 15.07795,27.0001 C14.80352,27.6588 15.28747,28.3847 16.00104,28.3847 C16.00104,28.3847 18.5862267,28.3847 23.7566,28.3847 L23.7566,43 C29.8672,28.3332667 32.9225,20.9999 32.9225,20.9999 C33.1969,20.3412 32.713,19.6153 31.9994,19.6153 C31.9994,19.6153 29.41422,19.6153 24.24386,19.6153 Z" id="scale" fill-opacity="0.4" fill="#000000"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

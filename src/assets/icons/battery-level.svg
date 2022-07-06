@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="177px" height="25px" viewBox="0 0 177 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Battery Level</title>
+    <defs>
+        <path d="M60,15 L59,15 L59,7 C59.6666667,7 60,7 60,7 C61.1045,7 62,7.89545 62,9 C62,9 62,13 62,13 C62,14.1046 61.1045,15 60,15 C60,15 60,15 60,15 Z M2,0 C0.89551,0 0,0.89545 0,2 C0,2 0,18 0,18 C0,19.1046 0.89551,20 2,20 C2,20 56,20 56,20 C57.1045,20 58,19.1046 58,18 C58,18 58,2 58,2 C58,0.89545 57.1045,0 56,0 C56,0 2,0 2,0 Z" id="path-1"></path>
+    </defs>
+    <g id="GUI-Elements" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Driving---Navigation" transform="translate(-383.000000, -167.000000)">
+            <g id="Battery-Level" transform="translate(383.000000, 167.000000)">
+                <text id="Remaining-distance" font-family=".AppleSystemUIFont" font-size="20" font-weight="normal" fill="#000000" fill-opacity="0.4">
+                    <tspan x="58.2667542" y="19">90%</tspan>
+                </text>
+                <g id="battery" transform="translate(115.000000, 3.000000)">
+                    <polygon id="Background" points="0 0 62 0 62 20 0 20"></polygon>
+                    <g>
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Mask"></g>
+                        <path d="M60,15 L59,15 L59,7 C59.6666667,7 60,7 60,7 C61.1045,7 62,7.89545 62,9 C62,9 62,13 62,13 C62,14.1046 61.1045,15 60,15 C60,15 60,15 60,15 Z M2,0 C0.89551,0 0,0.89545 0,2 C0,2 0,18 0,18 C0,19.1046 0.89551,20 2,20 C2,20 56,20 56,20 C57.1045,20 58,19.1046 58,18 C58,18 58,2 58,2 C58,0.89545 57.1045,0 56,0 C56,0 2,0 2,0 Z" mask="url(#mask-2)"></path>
+                        <path d="M1.80036983,21.9951049 C-0.315919633,21.8910825 -2,20.1422545 -2,18 L-2,18 L-2,2 L-1.99510437,1.80035786 C-1.89442777,-0.247780014 -0.25320647,-1.89090814 1.79397108,-1.99478515 L2,-2 L56,-2 C58.1420606,-2 59.8910707,-0.316051276 59.9951043,1.80035786 L60,2 L60,5 C62.1420606,5 63.8910707,6.68394872 63.9951043,8.80035786 L64,9 L64,13 L63.9951043,13.1996456 C63.8944266,15.2478165 62.2531882,16.8909105 60.2060272,16.9947853 L60,17 L60,18 C60,20.1422545 58.3159008,21.8910825 56.1996285,21.9951049 L56,22 L2,22 Z M56,2 L2,2 L2,18 L56,18 L56,2 Z" id="battery-border" fill-opacity="0.4" fill="#000000" mask="url(#mask-2)"></path>
+                    </g>
+                    <polygon id="level" fill="#25CB55" points="2 2 56 2 56 18 2 18"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

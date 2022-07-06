@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>camera</title>
+    <g id="GUI-Elements" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Driving---Navigation" transform="translate(-115.000000, -880.000000)">
+            <g id="action-icons" transform="translate(0.000000, 880.000000)">
+                <g id="camera" transform="translate(115.000000, 0.000000)">
+                    <polygon id="Background" points="0 0 48 0 48 48 0 48"></polygon>
+                    <path d="M30,28.5 C30,29.8807 28.8809,31 27.5,31 C26.1191,31 25,29.8807 25,28.5 C25,27.1193 26.1191,26 27.5,26 C28.8809,26 30,27.1193 30,28.5 Z M21,25 C23.209,25 25,23.2091 25,21 C25,18.7909 23.209,17 21,17 C18.791,17 17,18.7909 17,21 C17,23.2091 18.791,25 21,25 Z M24,35 C30.0752,35 35,30.0751 35,24 C35,17.9249 30.0752,13 24,13 C17.9248,13 13,17.9249 13,24 C13,30.0751 17.9248,35 24,35 Z M38,24 C38,31.7319 31.7319,38 24,38 C16.26807,38 10,31.7319 10,24 C10,16.26807 16.26807,10 24,10 C31.7319,10 38,16.26807 38,24 Z M41,24 C41,33.3888 33.3887,41 24,41 C14.61133,41 7,33.3888 7,24 C7,14.61121 14.61133,7 24,7 C33.3887,7 41,14.61121 41,24 Z" id="Union" fill-opacity="0.4" fill="#000000"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
