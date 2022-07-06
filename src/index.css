@@ -36,6 +36,7 @@ html,
 body {
   font-family: 'Montserrat';
   font-weight: 400;
+  user-select: none;
 }
 
 body {

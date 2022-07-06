@@ -2,6 +2,7 @@ import React from 'react';
 import { css } from '@emotion/css';
 import TopInfoBar from './TopInfoBar';
 import SpeedoMeter from './Speedometer';
+import Driving from './Driving';
 
 const SideBar = () => {
   return (
@@ -13,6 +14,7 @@ const SideBar = () => {
     >
       <TopInfoBar />
       <SpeedoMeter />
+      <Driving />
     </div>
   );
 };
